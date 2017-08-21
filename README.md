@@ -1,4 +1,3 @@
-# Boludeces
-Pelotudece 
+# Practica Profesional 2
 
-Agregando info
+## #Proyecto  HI-STOCK
